@@ -11,7 +11,7 @@ Red and black theme for waybar for arch linux with hyprland.
 
 ## Installation
 ```
-git clone https://github.com/GadzhievAleksandr/red-black-waybar
+https://github.com/S0LYER/red-black-waybar
 mkdir -r ~/.config/waybar
 mv ~/red-black-waybar/config.jsonc ~/.config/waybar
 mv ~/red-black-waybar/style.css ~/.config/waybar
